@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="name">Chris Hall</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone">+64 027 6969158</string>
+    <string name="website">g.dev/thelood</string>
+    <string name="email">unilood@gmail.com</string>
 </resources>
